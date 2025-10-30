@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="john &lt;71002660@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -91,11 +96,69 @@
       <option name="project" value="LOCAL" />
       <updated>1761844667414</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="clash_config.ini 上传">
+      <option name="closed" value="true" />
+      <created>1761845061599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845061599</updated>
+    </task>
+    <task id="LOCAL-00004" summary="clash_config.ini 上传">
+      <option name="closed" value="true" />
+      <created>1761845147638</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845147638</updated>
+    </task>
+    <task id="LOCAL-00005" summary="clash_config.ini 上传">
+      <option name="closed" value="true" />
+      <created>1761845151251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845151251</updated>
+    </task>
+    <task id="LOCAL-00006" summary="clash_config.ini 上传">
+      <option name="closed" value="true" />
+      <created>1761845842263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845842263</updated>
+    </task>
+    <task id="LOCAL-00007" summary="clash_config.ini 上传">
+      <option name="closed" value="true" />
+      <created>1761845871438</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761845871438</updated>
+    </task>
+    <task id="LOCAL-00008" summary="clash_config.ini 上传">
+      <option name="closed" value="true" />
+      <created>1761846936229</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761846936229</updated>
+    </task>
+    <task id="LOCAL-00009" summary="clash_config.ini 上传">
+      <option name="closed" value="true" />
+      <created>1761847285039</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761847285039</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="clash_config.ini 修正" />
+    <MESSAGE value="clash_config.ini 上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="clash_config.ini 上传" />
   </component>
 </project>
